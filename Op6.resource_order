@@ -1,0 +1,8 @@
+{
+  "FolderOrderSettings": [],
+  "ResourceOrderSettings": [
+    {"name":"Sfloor","order":1,"path":"sprites/Sfloor/Sfloor.yy",},
+    {"name":"Ofloor","order":1,"path":"objects/Ofloor/Ofloor.yy",},
+    {"name":"Ochecker","order":2,"path":"objects/Ochecker/Ochecker.yy",},
+  ],
+}
